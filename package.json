@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://carolinelstrickland.github.io/react-portfolio/",
+  "homepage": "https://carolinelstrickland.github.io/reactportfolio/",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "jquery": "^3.4.1",
